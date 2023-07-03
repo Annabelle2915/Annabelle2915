@@ -6,9 +6,3 @@ I'm Annabelle, a passionate and tech-enthusiast individual with a strong interes
 
 🌱  In my quest for continuous growth, I am dedicated to expanding my knowledge and skills in areas such as Data Engineering, Data Science, and Cloud Computing. By staying up-to-date with the latest technologies and industry trends, I aim to deliver impactful solutions that leverage the full potential of data.
 
-💬  Feel free to ask me about my projects, data analysis, machine learning algorithms, or any tech-related topics. I'm always excited to share my experiences and engage in meaningful discussions.
-
-📫  You can reach me through email at annabellechaixinjie@sd.tyalors.edu.my or connect with me on LinkedIn at [linkedin.com/in/annabellechai](linkedin.com/in/annabellechai).
-
-
-I'm thrilled to be part of the GitHub community and look forward to collaborating on exciting projects and learning from fellow developers and data enthusiasts. Let's connect and make an impact together! 😄
